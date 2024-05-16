@@ -1,5 +1,5 @@
 ### Hello Reflex AI team!
-It's been wonderful to be able to do this challenge, I've learnt a lot by doing it so no matter the outcome, I just wanted to say "Thanks!"
+It's been wonderful to be able to do this challenge, I've learnt a lot by doing it so no matter the outcome, I just wanted to say Thanks!  
 
 # Please in order to run this project:
 1- Make sure you have cypress installed or after cloning the repo just run 
