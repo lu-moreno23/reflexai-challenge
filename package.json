@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.11"
+  }
+}
